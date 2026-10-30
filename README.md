@@ -2,7 +2,7 @@
 	<img src="assets/griffin-logo.png" alt="Griffin library logo" width="180">
 </p>
 
-<h1 align="center">Griffin</h1>
+<h1 align="center">griffin</h1>
 
 <p align="center"><a href="https://meysamhadeli.github.io/Griffin/"><strong>Live Documentation</strong></a></p>
 
